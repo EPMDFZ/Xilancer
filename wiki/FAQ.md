@@ -1,0 +1,3 @@
+﻿# FAQ
+
+See `FAQ.md`.
